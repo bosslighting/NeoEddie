@@ -2,6 +2,6 @@
   "name": "Neo Eurodollar",
   "symbol": "€$",
   "description": "Unofficial currency of Neotropolis",
-  "image": "https://github.com/bosslighting/NeoEddie/blob/d452c91bfb3ce4f597d850e1fec2b9197f4931fc/logo.png",
+  "image": "https://raw.githubusercontent.com/bosslighting/NeoEddie/main/logo.png",
   "uri": "https://github.com/bosslighting/NeoEddie/blob/84bcd338da4a0b71c01180efd723da713cafb943/metadata.json"
 }
